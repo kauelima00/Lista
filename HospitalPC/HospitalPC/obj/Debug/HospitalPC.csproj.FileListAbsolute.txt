@@ -1,0 +1,8 @@
+C:\Users\lab2086\source\repos\HospitalPC\HospitalPC\bin\Debug\HospitalPC.exe.config
+C:\Users\lab2086\source\repos\HospitalPC\HospitalPC\bin\Debug\HospitalPC.exe
+C:\Users\lab2086\source\repos\HospitalPC\HospitalPC\bin\Debug\HospitalPC.pdb
+C:\Users\lab2086\source\repos\HospitalPC\HospitalPC\obj\Debug\HospitalPC.csproj.AssemblyReference.cache
+C:\Users\lab2086\source\repos\HospitalPC\HospitalPC\obj\Debug\HospitalPC.csproj.CoreCompileInputs.cache
+C:\Users\lab2086\source\repos\HospitalPC\HospitalPC\obj\Debug\HospitalPC.exe
+C:\Users\lab2086\source\repos\HospitalPC\HospitalPC\obj\Debug\HospitalPC.pdb
+C:\Users\lab2086\source\repos\HospitalPC\HospitalPC\obj\Debug\HospitalPC.exe.config
