@@ -10,10 +10,10 @@ namespace HospitalPC
     {
         static void Main(string[] args)
         {
-            float val;
+            string val = "w";
             FilaPaciente fila = new FilaPaciente();
 
-            while (true)
+            while (val != "q")
             {
                 Console.WriteLine("-----Menu-----");
 
@@ -21,36 +21,32 @@ namespace HospitalPC
                 Console.WriteLine("[2] Lista dos Pacientes");
                 Console.WriteLine("[3] Atender Paciente ");
                 Console.WriteLine("[4] Alterar Cadastro");
-                Console.WriteLine("[5] Sair");
+                Console.WriteLine("[q] Sair");
 
-                val = float.Parse(Console.ReadLine());
+                val = Console.ReadLine();
 
-                if (val == 1)
+                switch(val = "q")
                 {
-                    fila.Cadastro();
+                    case "1":
+                            fila.Cadastro();
+                        break;
+                    case "2":
+                             fila.Listar();
+                        break;
+                    case "3":
+                             fila.Atender();
+                        break;
+                    case "4":
+                             fila.Alterar();
+                        break;
+                    case "q":
+                    case "Q":
+                            Console.WriteLine("\nSaindo do program...");
+                        break;
+                    default:
+                        Console.WriteLine("\nDigite numero valido do Menu!");
+                        break;
                 }
-                else if (val == 2)
-                {
-                    fila.Listar();
-                }
-                else if (val == 3)
-                {
-                    fila.Atender();
-                }
-                else if (val == 4)
-                {
-                    fila.Alterar();
-                }
-                else if (val == 5)
-                {
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine("Digite numero valido do Menu!");
-                }
-
-
             }
         }
     }
