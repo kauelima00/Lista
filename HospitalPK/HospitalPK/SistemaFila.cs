@@ -60,7 +60,7 @@ namespace HospitalPK
                 {
                     Console.WriteLine("Paciente numero " + i + ":" + fila[i].Nome);
                     Console.WriteLine("CPF:" + fila[i].Cpf );
-                    Console.WriteLine("Idade" + fila[i].Idade);
+                    Console.WriteLine("Idade:" + fila[i].Idade);
                     Console.WriteLine("---------------------------");
                 }
 
