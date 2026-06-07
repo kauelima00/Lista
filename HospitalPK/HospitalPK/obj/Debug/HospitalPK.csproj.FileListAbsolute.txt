@@ -1,0 +1,8 @@
+C:\Users\klima\source\repos\HospitalPK\HospitalPK\bin\Debug\HospitalPK.exe.config
+C:\Users\klima\source\repos\HospitalPK\HospitalPK\bin\Debug\HospitalPK.exe
+C:\Users\klima\source\repos\HospitalPK\HospitalPK\bin\Debug\HospitalPK.pdb
+C:\Users\klima\source\repos\HospitalPK\HospitalPK\obj\Debug\HospitalPK.csproj.AssemblyReference.cache
+C:\Users\klima\source\repos\HospitalPK\HospitalPK\obj\Debug\HospitalPK.csproj.CoreCompileInputs.cache
+C:\Users\klima\source\repos\HospitalPK\HospitalPK\obj\Debug\HospitalPK.exe
+C:\Users\klima\source\repos\HospitalPK\HospitalPK\obj\Debug\HospitalPK.pdb
+C:\Users\klima\source\repos\HospitalPK\HospitalPK\obj\Debug\HospitalPK.exe.config
