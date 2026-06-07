@@ -15,7 +15,7 @@ namespace HospitalPC
 
             while (val != "q")
             {
-                Console.WriteLine(">>>>>>>>>>Menu<<<<<<<<<<");
+                Console.WriteLine("---------->Menu<----------");
 
                 Console.WriteLine("[1] Cadastrar");
                 Console.WriteLine("[2] Lista dos Pacientes");
