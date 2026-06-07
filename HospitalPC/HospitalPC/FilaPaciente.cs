@@ -59,7 +59,7 @@ namespace HospitalPC
                 for (int i = 0; i < PacienteNum; i++)
                 {
                     Console.WriteLine("Paciente numero " + i + ":" + fila[i].Nome );
-                    Console.WriteLine("CPF:" + fila[i].Cpf); 
+                    Console.WriteLine(/n"CPF:" + fila[i].Cpf/n); 
                     Console.WriteLine("Idade"+ fila[i].Idade);
                 }
 
